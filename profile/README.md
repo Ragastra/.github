@@ -3,7 +3,7 @@
 
 Ragastra is an engineering-focused research and build group working on high-impact, hardware-heavy, real-world systems.
 
-We design, simulate, prototype, and validate complex electromechanical and infrastructure-grade technologies — starting from first principles.
+We design, simulate, prototype, and validate complex electromechanical and infrastructure-grade technologies, starting from first principles.
 
 We are not a pitch deck.
 We are a build-first organization.
@@ -80,7 +80,7 @@ Focused on prototype-to-pilot transition roadmap.
 
 ## Long-Term Vision
 
-To build deployable, scalable engineering systems that solve large, structural problems — not incremental features.
+To build deployable, scalable engineering systems that solve large, structural problems, not incremental features.
 
 Ragastra exists to build things that are difficult.
 
